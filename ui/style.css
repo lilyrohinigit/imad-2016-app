@@ -19,8 +19,9 @@ body {
 .img-medium {
     height: 50px;
     text-align:right;
+    float: right;
 }
 #second-menu {
-   float: left;
+   
       padding: 20px 20px 20px 20px;
 }
