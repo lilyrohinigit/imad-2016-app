@@ -21,7 +21,7 @@ body {
     text-align:right;
     float: right;
 }
-#second-menu {
-   
+ #first-menu {
+        float:left; 
       padding: 20px 20px 20px 20px;
 }
